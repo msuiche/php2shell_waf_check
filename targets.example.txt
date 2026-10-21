@@ -1,0 +1,9 @@
+# Targets for check_php2shell_waf.py / check-php2shell-waf.sh
+# One URL per line. Blank lines and lines starting with # are ignored.
+# Copy this file to targets.txt (gitignored) and edit for your engagement.
+
+https://blog.example.com/wp-json/
+https://docs.example.com/wp-json/
+https://www.example.com/upload.php
+https://cms.example.org/wp-json/
+https://www.example.org/blog/wp-json/
