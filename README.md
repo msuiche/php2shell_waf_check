@@ -104,6 +104,12 @@ below anything that stresses the parser. No memory pressure, no grooming
 volume, no crash. It exercises the WAF's pattern match, not the bug. Only
 run it against infrastructure you are authorized to test.
 
+## References
+
+- [Cloudflare — PHP vulnerabilities & WAF protection](https://blog.cloudflare.com/php-vulnerabilities-waf-protection) (the managed rules this tool validates)
+- [php2shell.com](https://www.php2shell.com/) — official disclosure site
+- [Calif.io — php2shell technical writeup](https://calif.io/php2shell/)
+
 ## Author
 
 Matt Suiche, Tolmo ([@msuiche](https://github.com/msuiche))
