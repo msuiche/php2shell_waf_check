@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="php2shell-checker.png" alt="php2shell vulnerability checker" width="512">
+</p>
+
 # php2shell WAF check
 
 Non-destructive validator for edge protection against
